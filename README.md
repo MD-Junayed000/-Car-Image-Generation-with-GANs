@@ -1,4 +1,5 @@
 # -Car-Image-Generation-with-GANs
+![output](https://github.com/user-attachments/assets/f3eb2543-819f-4424-a4ee-2b0a0e554fa4)
 
 This repository contains my deep learning project where I built a Generative Adversarial Network (GAN) to generate realistic car images. The project demonstrates my journey through data preprocessing, GAN architecture development, training, and saving the generated images.
 ________________________________________
